@@ -1,0 +1,10 @@
+names:
+- adj
+- int
+- geo
+- pro
+- non
+nc: 5
+test: /root/.trae-cn/weldqualityinspectionv9/train
+train: /root/.trae-cn/weldqualityinspectionv9/train
+val: /root/.trae-cn/weldqualityinspectionv9/valid
